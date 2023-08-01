@@ -9,7 +9,7 @@ export const filterOdd=(...arr)=>
     return ans;
 }
 
-export const filtereven=(...arr)=>
+export const filterEven=(...arr)=>
 {
     let ans=[];
     arr.forEach(ele=>{
